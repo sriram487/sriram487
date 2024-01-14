@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [www.curiositystreamer.blogspot.com](www.curiositystreamer.blogspot.com)
 
-- 💬 Ask me about **Generative adversial network**
-
 - 📫 How to reach me **sriramsrinivasan2000@gmail.com**
 
 - ⚡ Fun fact **you can call me anytime for a coffee**
