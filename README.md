@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sriram</h1>
 <h3 align="center">A Deep Learning enthusiast from India.</h3>
 
-- 🌱 I’m currently learning **Deep Learning, pytorch, GAN**
+- 🌱 I’m currently learning **Vision Language Model, GAN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sriram487](https://github.com/sriram487)
 
